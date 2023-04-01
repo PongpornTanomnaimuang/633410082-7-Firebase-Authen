@@ -1,5 +1,4 @@
 # firebase_authen
-Create by Pochcharapon Konpian
 
 A new Flutter project.
 
